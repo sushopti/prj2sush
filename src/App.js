@@ -19,14 +19,14 @@ function App() {
         </a>
       </header> */}
       <form>
-      <label>Username:
+      <label>Username ( Farmer / Admin / User ) :
         <input type="text" />
              </label>
              <br></br>
              <label>Password:
         <input type="Password" />
              </label>
-             <button type="button">Click Me!</button>
+             <button type="button">Sign In</button>
     </form>
     </div>
   );
